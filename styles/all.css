@@ -21,7 +21,8 @@
         color: #fff; }
     .main-header .container .wrap-basket {
       position: relative;
-      transition: .4s; }
+      transition: .4s;
+      text-align: center; }
       .main-header .container .wrap-basket .add-to-basket {
         position: absolute;
         right: -15px;
